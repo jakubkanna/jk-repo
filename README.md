@@ -1,4 +1,4 @@
-# Repository
+# Open Repository
 ## About
 Let's make something new.
 ## Usage
