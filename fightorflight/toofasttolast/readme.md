@@ -6,10 +6,10 @@
 
 [![](https://github.com/jakubkanna/open-repo/blob/main/fightorflight/toofasttolast/jpg/Screenshot%202023-04-18%20231244.png?raw=true)](https://github.com/jakubkanna/open-repo/blob/main/fightorflight/toofasttolast/jpg/Screenshot%202023-04-18%20231244.png?raw=true)
 
-# Files
-The repo contains sliced 3D models. Sculpture is basing on Subaru Impreza rear wing and  has been prepared in blender. STL files are prepared for 3D print, designed to be aligned by 1,75mm pins and connected together by using addhesive.
+# Files 18.04.23
+- Sliced 3D models has been added. Sculpture is basing on Subaru Impreza rear wing and has been prepared in Blender. STL files are ready for 3D print, designed to be aligned by 1,75mm pins and connected together by addhesive.
 
-Manifest has been added. Feel free to contribue.
+- Manifest has been added. Feel free to contribue.
 
 # 3D Print setup
 Cura settigns:`
@@ -37,6 +37,7 @@ All of the files in [open-repo](https://github.com/jakubkanna/open-repo "open-re
 
 # To do
 - Sharing orginal open .blend file is currently impossible due to the big size.
+- Lack of print-ready gcodes
 
 # Inquires
 info@jakubkanna.com
