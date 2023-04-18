@@ -2,7 +2,7 @@
 [![](https://github.com/jakubkanna/open-repo/blob/main/fightorflight/toofasttolast/jpg/kuba06-scaled.jpg?raw=true)](https://github.com/jakubkanna/open-repo/blob/main/fightorflight/toofasttolast/jpg/kuba06-scaled.jpg?raw=true)
 
 # Too Fast to Last
-*Too Fast to Last* is a work made of an 3D printed object and manifesto in 2022. The work has been smashed in 2023 during [*STRESS TEST*](http://newscenario.net/stresstest/ "STRESS TEST") by newscenario. Altough the object is dead the idea stays alive. 
+*Too Fast to Last* by Jakub Kanna is a work made of an 3D printed object and manifesto in 2022. The work has been smashed in 2023 during [*STRESS TEST*](http://newscenario.net/stresstest/ "STRESS TEST") by newscenario. Altough the object is dead the idea stays alive. 
 
 [![](https://github.com/jakubkanna/open-repo/blob/main/fightorflight/toofasttolast/jpg/Screenshot%202023-04-18%20231244.png?raw=true)](https://github.com/jakubkanna/open-repo/blob/main/fightorflight/toofasttolast/jpg/Screenshot%202023-04-18%20231244.png?raw=true)
 
