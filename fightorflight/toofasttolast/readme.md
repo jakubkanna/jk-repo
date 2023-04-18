@@ -11,7 +11,7 @@ The repo contains sliced 3D models. Sculpture is basing on Subaru Impreza rear w
 
 Manifest has been added. Feel free to contribue.
 
-#Print setup
+# 3D Print setup
 Cura settigns:`
 M82 ;absolute extrusion mode
 M104 S0
