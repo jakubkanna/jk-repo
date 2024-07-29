@@ -36,9 +36,9 @@ Filament: *Devil Design 1,75 mm 1000 g niebieski*
 All of the files in [open-repo](https://github.com/jakubkanna/open-repo "open-repo") are free to download, use, modify, etc.
 
 # To do
-- .blend file is not optimised for public
+- .blend file is not optimised for public use
 - Lack of print-ready gcodes
-- Instruction
+- Instructions
 
 # Inquires
 info@jakubkanna.com
